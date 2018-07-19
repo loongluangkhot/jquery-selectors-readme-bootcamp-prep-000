@@ -4,3 +4,6 @@
   
 // })
 
+function paragraphSelector() {
+  $('p')
+}
